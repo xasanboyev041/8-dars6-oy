@@ -1,0 +1,19 @@
+.header-input {
+  width: 492px;
+  height: 44px;
+  top: 40px;
+  left: 272px;
+  border-radius: 70px;
+  border: 1px solid rgba(195, 212, 233, 0.4);
+}
+.wrapper-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.wrapper-icons {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

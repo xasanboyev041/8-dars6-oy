@@ -1,0 +1,51 @@
+.wrapper-footer-ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 36px;
+  border-bottom: 1px solid rgba(19, 19, 19, 0.16);
+}
+.works {
+  width: 576px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-logo {
+  width: 300px;
+}
+li {
+  list-style: none;
+}
+.our {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  color: rgba(19, 19, 19, 0.6);
+}
+.about {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: -0.02em;
+  color: rgba(26, 32, 44, 1);
+}
+.morent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.policy {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.all-rights {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  color: rgba(26, 32, 44, 1);
+}

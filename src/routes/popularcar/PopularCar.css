@@ -1,0 +1,38 @@
+.popular-car-section {
+  padding: 20px;
+}
+
+.popular-car-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.car-info {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+}
+
+.car-price {
+  display: flex;
+  align-items: baseline;
+}
+
+.ant-card {
+  border-radius: 12px;
+}
+
+.ant-card-cover img {
+  border-radius: 12px 12px 0 0;
+}
+
+.ant-btn-link {
+  color: #1a73e8;
+}
+
+.ant-btn-primary {
+  background-color: #1a73e8;
+  border-color: #1a73e8;
+}

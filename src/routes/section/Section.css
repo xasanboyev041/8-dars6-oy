@@ -1,0 +1,31 @@
+body {
+  background-color: #f7f9fc;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.ant-card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ant-radio-button-wrapper-checked {
+  background-color: #1a73e8 !important;
+  border-color: #1a73e8 !important;
+  color: #fff !important;
+}
+
+.ant-form-inline .ant-form-item {
+  margin-right: 16px;
+}
+
+.ant-btn-primary {
+  background-color: #1a73e8;
+  border-color: #1a73e8;
+}
+.wrapper-section {
+    display: flex;
+    justify-content: space-between;
+}
